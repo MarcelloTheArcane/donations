@@ -6,7 +6,7 @@ I'm committing to **£10 per month** for the one open source project that I foun
 
 ## Previous winners
 
-- None so far!
+See the [winners list](./winners.md) for previous winners.
 
 ## Questions
 

@@ -8,4 +8,6 @@ ArcWelderPlugin has saved me a lot of hassle with going to my 3d printer to upda
 
 ## June 2021
 
-Coming soon...
+**Mozilla Foundation (https://www.mozilla.org)**
+
+Mozilla wins this month, because of Firefox _and_ MDN.  I'm loving both!

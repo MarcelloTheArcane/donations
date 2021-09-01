@@ -1,5 +1,11 @@
 # Winners!
 
+## August 2021
+
+**LibreCAD (https://librecad.org/)**
+
+I've been using LibreCAD pretty much every day.  With access to a large-format plotter, it's proving very useful, and I'm learning how to use 2d CAD now. 
+
 ## July 2021
 
 **ArcWelderPlugin (https://github.com/FormerLurker/ArcWelderPlugin)**

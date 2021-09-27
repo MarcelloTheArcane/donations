@@ -1,5 +1,9 @@
 # September 2021
 
+## ClearURLs (https://gitlab.com/KevinRoebert/ClearUrls)
+
+This will make my browsing experience faster and less tracked!  It turns link-tracking redirect URLs into plain ones, and gets rid of ETag tracking.
+
 ## OctoPrint (https://octoprint.org)
 
 This has featured before, it's a fantastic 3d printer management platform on Raspberry Pi.

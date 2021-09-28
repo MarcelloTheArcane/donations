@@ -1,5 +1,9 @@
 # September 2021
 
+## Tampermonkey (https://www.tampermonkey.net)
+
+I use Tampermonkey on Firefox quite a bit - mainly on the systems I use at work to make them more useable.
+
 ## ClearURLs (https://gitlab.com/KevinRoebert/ClearUrls)
 
 This will make my browsing experience faster and less tracked!  It turns link-tracking redirect URLs into plain ones, and gets rid of ETag tracking.
